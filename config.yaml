@@ -1,14 +1,3 @@
 monitored_nodes:
   - /rqt_gui_py_node_55974
-  - /rqt_gui_py_node_88914
   - /vehicle_interface
-  - /rqt_gui_py_node_94934
-  - /rqt_gui_py_node_961104
-  - /rqt_gui_py_node_961204
-  - /rqt_gui_py_node_961034
-  - /rqt_gui_py_node_961044
-  - /rqt_gui_py_node_961045
-  - /rqt_gui_py_node_961046
-  - /rqt_gui_py_node_961047
-  - /rqt_gui_py_node_961048
-  - /rqt_gui_py_node_961049
